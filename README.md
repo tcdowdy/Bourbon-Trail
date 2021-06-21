@@ -4,7 +4,7 @@ A glance at the distilleries that are located along Kentucky's Bourbon Trail.  D
   - Bardstown Bourbon Company in Bardstown
   - Bulleit Distilling Co. in Shelbyville
   - Bulleit Frontier Experience at the Stitzel–Weller Distillery in Louisville
-  - Evan Williams Bourbon Experience in Louisville[17]
+  - Evan Williams Bourbon Experience in Louisville
   - Four Roses Distillery in Lawrenceburg
   - Heaven Hill Visitor Center in Bardstown
   - Jim Beam American Stillhouse in Clermont
