@@ -18,3 +18,5 @@ A glance at the distilleries that are located along Kentucky's Bourbon Trail.  D
   - Town Branch Distillery in Lexington
   - Wild Turkey Distillery in Lawrenceburg
   - Woodford Reserve Distillery near Versailles
+
+I would also include the additional Craft Distilleries.  Initial list obtained from POI-distilleries, but updated as that list was incomplete.
