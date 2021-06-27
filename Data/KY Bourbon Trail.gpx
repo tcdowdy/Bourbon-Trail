@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="Extra_POI_Editor V5.99" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensions/v3/GpxExtensionsv3.xsd">
+  <metadata><!--
+                                                                                                                                                                                                                                                       Extra_POI_Editor can only be used for personnal usage and not for any commercial purposes without a written permission of the author, aka TurboCCC. I can be reached at turboccc@hotmail.com.
+  --><link href="http://turboccc.wikispaces.com"></link>
+    <time>2017-02-15T16:50:49Z</time>
+  </metadata>
+
+  <wpt lat="38.056013" lon="-84.518889">
+    <ele>0</ele>
+    <time>2014-03-04T21:21:12Z</time>
+    <name>Barrel House Distilling (craft)</name>
+    <cmt> </cmt>
+    <sym>Information</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>1200 Manchester St</gpxx:StreetAddress>
+          <gpxx:City>Lexington</gpxx:City>
+          <gpxx:State>Kentucky</gpxx:State>
+          <gpxx:PostalCode>40504-1129</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">(859) 259-0159</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">www.barrelhousedistillery.com</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.804797" lon="-85.477861">
+    <time>2017-02-15T15:17:53Z</time>
+    <name>Barton 1792 Distillery</name>
+    <cmt> </cmt>
+    <desc>Mon thru Sat  9am - 3pm</desc>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Address>
+          <gpxx:StreetAddress>501 Cathedral Manor</gpxx:StreetAddress>
+          <gpxx:City>Bardstown</gpxx:City>
+          <gpxx:State>KY</gpxx:State>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">866-239-4690</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">www.1792bourbon.com/</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.946974" lon="-84.613600">
+    <time>2017-02-15T15:21:58Z</time>
+    <name>Boone County Distilling</name>
+    <cmt> </cmt>
+    <desc>public hours
+Wed thru Sat   noon - 5pm
+Sun  noon - 4pm
+
+Tour Times (everyday):
+12:30pm / 2:00pm / 3:30pm
+</desc>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Address>
+          <gpxx:StreetAddress>10601 Toebben Drive</gpxx:StreetAddress>
+          <gpxx:City>Boone County</gpxx:City>
+          <gpxx:State>KY</gpxx:State>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">859-282-6545</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">www.boonedistilling.com/</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.797432" lon="-85.911192">
+    <time>2017-02-15T15:25:03Z</time>
+    <name>Boundary Oak Distillery</name>
+    <cmt> </cmt>
+    <desc>Tue thru Fri  noon - 6pm
+Sat  10am - 6pm</desc>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Address>
+          <gpxx:StreetAddress>2000 Boundary Oak Dr</gpxx:StreetAddress>
+          <gpxx:City>Radcliff</gpxx:City>
+          <gpxx:State>KY</gpxx:State>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">270-351-2013</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">http://boundaryoakdistillery.com/</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.216692" lon="-84.870889">
+    <time>2017-02-15T15:29:26Z</time>
+    <name>Buffalo Trace Distillery (Nat Hist Landmark)</name>
+    <cmt> </cmt>
+    <desc>Mon thru Sat  9am - 4pm
+Sun  noon - 3pm
+
+National Historic Landmark</desc>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Address>
+          <gpxx:StreetAddress>113 Great Buffalo Trace</gpxx:StreetAddress>
+          <gpxx:City>Frankfort</gpxx:City>
+          <gpxx:State>KY</gpxx:State>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">502-696-5926</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">www.buffalotracedistillery.com/</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.210244" lon="-85.807181">
+    <time>2017-02-15T15:05:25Z</time>
+    <name>Bulleit Frontier Whiskey Experience</name>
+    <cmt> </cmt>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Address>
+          <gpxx:StreetAddress>3860 Fitzgerald Road</gpxx:StreetAddress>
+          <gpxx:City>Louisville</gpxx:City>
+          <gpxx:State>KY</gpxx:State>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">502.810.3800</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">http://bulleitexperience.com/</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="36.911366" lon="-87.551446">
+    <time>2017-02-15T15:32:06Z</time>
+    <name>Casey Jones Distillery</name>
+    <cmt> </cmt>
+    <desc>Tue thru Sat  10am - 6pm</desc>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Address>
+          <gpxx:StreetAddress>2813 Witty Ln</gpxx:StreetAddress>
+          <gpxx:City>Hopkinsville</gpxx:City>
+          <gpxx:State>KY</gpxx:State>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">270-839-9987</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">www.caseyjonesdistillery.com/</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.146191" lon="-84.832376">
+    <time>2017-02-15T15:34:18Z</time>
+    <name>Castle &amp; Key Distillery</name>
+    <cmt> </cmt>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Address>
+          <gpxx:StreetAddress>4445 McCracken Pike </gpxx:StreetAddress>
+          <gpxx:City>Frankfort</gpxx:City>
+          <gpxx:State>KY</gpxx:State>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">(859) 873-2481 </gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">www.castleandkey.com/</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="36.993822" lon="-86.441350">
+    <ele>0</ele>
+    <time>2014-03-04T21:22:19Z</time>
+    <name>Corsair Artisan Distillery (craft)</name>
+    <cmt> </cmt>
+    <sym>Information</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>400 E Main St</gpxx:StreetAddress>
+          <gpxx:City>Bowling Green</gpxx:City>
+          <gpxx:State>Kentucky</gpxx:State>
+          <gpxx:PostalCode>42101</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">(270) 904-2021</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">www.corsairartisan.com</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.256526" lon="-85.759468">
+    <ele>0</ele>
+    <time>2014-03-04T20:52:34Z</time>
+    <name>Evan Williams Bourbon Experience</name>
+    <cmt> </cmt>
+    <sym>Information</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>528 W Main St</gpxx:StreetAddress>
+          <gpxx:City>Louisville</gpxx:City>
+          <gpxx:State>Kentucky</gpxx:State>
+          <gpxx:PostalCode>40202-2920</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">(502) 585-3923</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">www.evanwilliams.com/visit.php</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.973035" lon="-84.898085">
+    <ele>0</ele>
+    <time>2014-03-04T21:03:20Z</time>
+    <name>Four Roses Distillery</name>
+    <cmt> </cmt>
+    <sym>Information</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>1224 Bonds Mill Rd</gpxx:StreetAddress>
+          <gpxx:City>Lawrenceburg</gpxx:City>
+          <gpxx:State>Kentucky</gpxx:State>
+          <gpxx:PostalCode>40342-9734</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">(502) 839-2655</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">http://fourrosesbourbon.com/</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.211741" lon="-84.248940">
+    <time>2017-02-15T15:47:21Z</time>
+    <name>Hartfield &amp; Co (Pritchard &amp; Bail)</name>
+    <cmt> </cmt>
+    <desc>Tue thru Fri  8am -6pm
+Sat  10am - 6pm
+
+Prichard and Bail
+Thu thru Sat  5 - 11pm
+A unique experience in cocktail culture founded on pre-prohibition style techniques and fundamentals, all built right inside Hartfield &amp; Co.
+Prichard and Bail is a new and curated experience drawing on the ideas and beliefs that cocktails are best made fresh and with quality ingredients, beer is best served from a local source and wine can be a ride along the terrain and vine all contained in a bottle.</desc>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Address>
+          <gpxx:StreetAddress>108 East 4th St</gpxx:StreetAddress>
+          <gpxx:City>Paris</gpxx:City>
+          <gpxx:State>KY</gpxx:State>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">859-559-3494</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">www.hartfieldandcompany.com/</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.793613" lon="-85.464166">
+    <ele>0</ele>
+    <time>2014-03-04T21:19:21Z</time>
+    <name>Heaven Hill Bourbon Heritage Center</name>
+    <cmt> </cmt>
+    <desc>rum - Admiral Nelson's Spiced, Aqua Luca Brazilian, Blackheart
+vodka - Burnett's
+liqueurs - Hypnotiq, O'Mara's Irsh Cream
+brandy - Christian Brothers, Coronet, Ansac
+bourbon - Elijah Craig, Evan Williams, Henry McKenna, Parker's Heritage, Fighting Cock
+tequila - Lunazul, Arandas
+gin - Burnett's</desc>
+    <sym>Information</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>1311 Gilkey Run Rd</gpxx:StreetAddress>
+          <gpxx:City>Bardstown</gpxx:City>
+          <gpxx:State>Kentucky</gpxx:State>
+          <gpxx:PostalCode>40004-2201</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">(502) 337-1000</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">http://heavenhill.com/home</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.930807" lon="-85.653959">
+    <ele>0</ele>
+    <time>2014-03-04T21:19:32Z</time>
+    <name>Jim Beam American Stillhouse</name>
+    <cmt> </cmt>
+    <sym>Information</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>526 Happy Hollow Rd</gpxx:StreetAddress>
+          <gpxx:City>Clermont</gpxx:City>
+          <gpxx:State>Kentucky</gpxx:State>
+          <gpxx:PostalCode>40110</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">(502) 543-9877</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">http://www.jimbeam.com/</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.336085" lon="-85.463371">
+    <time>2017-02-15T16:50:39Z</time>
+    <name>Kentucky Artisan Distillery</name>
+    <cmt> </cmt>
+    <desc>tours
+Tue thru Fri  10am - 4pm
+Sat  10am - 2pm
+start at top of every hour - 50 minutes</desc>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Address>
+          <gpxx:StreetAddress>6230 Old LaGrange Rd</gpxx:StreetAddress>
+          <gpxx:City>Crestwood</gpxx:City>
+          <gpxx:State>KY</gpxx:State>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">(502) 822-3042</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">www.kentuckyartisandistillery.com/home</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.258608" lon="-85.766811">
+    <time>2017-02-15T15:37:59Z</time>
+    <name>Kentucky Peerless Distilling</name>
+    <cmt> </cmt>
+    <desc>Retail and Distillery Tours
+Wed thru Sat  10am - 5pm
+(tours at 10:30, 11:30, 12:30, 1:30, 2:30, 3:30)</desc>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Address>
+          <gpxx:StreetAddress>120 N 10th St</gpxx:StreetAddress>
+          <gpxx:City>Louisville</gpxx:City>
+          <gpxx:State>KY</gpxx:State>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">(502) 566-4999</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">http://kentuckypeerless.com/</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.585507" lon="-85.265720">
+    <ele>0</ele>
+    <time>2014-03-04T21:24:40Z</time>
+    <name>Limestone Branch Distillery (craft)</name>
+    <cmt> </cmt>
+    <sym>Information</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>1280 Veterans Memorial Hwy</gpxx:StreetAddress>
+          <gpxx:City>Lebanon</gpxx:City>
+          <gpxx:State>Kentucky</gpxx:State>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">(270) 699-9004</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">www.limestonebranch.com</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="36.702426" lon="-87.392098">
+    <ele>0</ele>
+    <time>2014-03-04T21:25:54Z</time>
+    <name>MB Roland Distillery (craft)</name>
+    <cmt> </cmt>
+    <sym>Information</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>137 Barkers Mill Rd</gpxx:StreetAddress>
+          <gpxx:City>Pembroke</gpxx:City>
+          <gpxx:State>Kentucky</gpxx:State>
+          <gpxx:PostalCode>42266-9437</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">(270) 640-7744</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">www.mbrdistillery.com</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.648098" lon="-85.349557">
+    <ele>0</ele>
+    <time>2014-03-04T21:07:56Z</time>
+    <name>Maker's Mark Distillery</name>
+    <cmt> </cmt>
+    <sym>Information</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>3350 Burkes Spring Rd</gpxx:StreetAddress>
+          <gpxx:City>Loretto</gpxx:City>
+          <gpxx:State>Kentucky</gpxx:State>
+          <gpxx:PostalCode>40037-8027</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">(270) 865-2099</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">www.makersmark.com/</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="39.100665" lon="-84.488773">
+    <time>2017-02-15T15:51:19Z</time>
+    <name>New Riff Distillery</name>
+    <cmt> </cmt>
+    <desc>tours
+Tue thru Thu  4 / 5 / 6pm
+Fri &amp; Sat  noon / 1 / 2 / 3 /4 / 5 / 6
+Sun  noon / 1 / 2 / 3</desc>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Address>
+          <gpxx:StreetAddress>24 Distillery Way</gpxx:StreetAddress>
+          <gpxx:City>Newport</gpxx:City>
+          <gpxx:State>KY</gpxx:State>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">859-261-7433</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">https://newriffdistilling.com/home/</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.778452" lon="-87.138101">
+    <time>2017-02-15T15:42:25Z</time>
+    <name>O.Z. Tyler Distillery</name>
+    <cmt> </cmt>
+    <desc>Mon thru Fri  10am - 3pm CST
+Tours
+Mon thru Fri  11am - 2pm CST</desc>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Address>
+          <gpxx:StreetAddress>10 Distillery Rd</gpxx:StreetAddress>
+          <gpxx:City>Owensboro</gpxx:City>
+          <gpxx:State>KY</gpxx:State>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">270-691-9001</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">https://oztylerdistillery.com/</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.662157" lon="-83.779385">
+    <ele>0</ele>
+    <time>2014-03-04T21:26:50Z</time>
+    <name>The Old Pogue Distillery (craft)</name>
+    <cmt> </cmt>
+    <sym>Information</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>716 W 2nd St</gpxx:StreetAddress>
+          <gpxx:City>Maysville</gpxx:City>
+          <gpxx:State>Kentucky</gpxx:State>
+          <gpxx:PostalCode>41056-9777</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Email">www.oldpogue.com</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.049711" lon="-84.509606">
+    <ele>0</ele>
+    <time>2017-02-15T15:09:00Z</time>
+    <name>Town Branch Distillery</name>
+    <cmt> </cmt>
+    <sym>Information</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>420 Cross St</gpxx:StreetAddress>
+          <gpxx:City>Lexington</gpxx:City>
+          <gpxx:State>Kentucky</gpxx:State>
+          <gpxx:PostalCode>40508-2867</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">(869) 255-2337</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">http://www.kentuckyale.com/tour</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.038106" lon="-84.849865">
+    <ele>0</ele>
+    <time>2014-03-04T21:16:14Z</time>
+    <name>Wild Turkey Distillery</name>
+    <cmt> </cmt>
+    <desc>Wild Turkey &amp; Russell's Reserve</desc>
+    <sym>Information</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>1417 Versailles Rd</gpxx:StreetAddress>
+          <gpxx:City>Lawrenceburg</gpxx:City>
+          <gpxx:State>Kentucky</gpxx:State>
+          <gpxx:PostalCode>40342-9624</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">(502) 839-2182</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">http://wildturkeybourbon.com/</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.619107" lon="-84.830093">
+    <time>2017-02-15T15:14:00Z</time>
+    <name>Wilderness Trail Distillery</name>
+    <cmt> </cmt>
+    <desc>Tue thru Sat  10am - 4pm
+Tours start on the hour.</desc>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:Address>
+          <gpxx:StreetAddress>4095 Lebanon Rd</gpxx:StreetAddress>
+          <gpxx:City>Danville</gpxx:City>
+          <gpxx:State>KY</gpxx:State>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">859-402-8707</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">http://www.wildernesstraildistillery.com/</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="37.786068" lon="-85.466206">
+    <ele>0</ele>
+    <time>2014-03-04T21:34:52Z</time>
+    <name>Willett Distillery (craft)</name>
+    <cmt> </cmt>
+    <sym>Information</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>1869 Loretto Rd</gpxx:StreetAddress>
+          <gpxx:City>Bardstown</gpxx:City>
+          <gpxx:State>Kentucky</gpxx:State>
+          <gpxx:PostalCode>40004-2200</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">(502) 348-0899</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">www.kentuckybourbonwhiskey.com</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="38.112759" lon="-84.812736">
+    <ele>0</ele>
+    <time>2014-03-04T21:18:56Z</time>
+    <name>Woodford Reserve Distillery</name>
+    <cmt> </cmt>
+    <sym>Information</sym>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Address>
+          <gpxx:StreetAddress>7855 McCracken Pike</gpxx:StreetAddress>
+          <gpxx:City>Versailles</gpxx:City>
+          <gpxx:State>Kentucky</gpxx:State>
+          <gpxx:PostalCode>40383-9781</gpxx:PostalCode>
+        </gpxx:Address>
+        <gpxx:PhoneNumber Category="Phone">(859) 879-1812</gpxx:PhoneNumber>
+        <gpxx:PhoneNumber Category="Email">www.woodfordreserve.com/Distillery/DistilleryTour</gpxx:PhoneNumber>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+</gpx>
