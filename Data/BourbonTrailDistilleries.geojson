@@ -3,7 +3,7 @@
 "name": "BourbonTrailDistilleries",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "Name": "Angel's Envy Distillery", "Address": "500 E Main St", "City": "Louisville", "State": "KY", "Type": "Primary", "Longitude": -86.992581, "Latitude": 35.80007 }, "geometry": { "type": "Point", "coordinates": [ -85.758287773529503, 38.256552378023187 ] } },
+{ "type": "Feature", "properties": { "Name": "Angel's Envy Distillery", "Address": "500 E Main St", "City": "Louisville", "State": "KY", "Type": "Primary", "Longitude": -86.992581, "Latitude": 35.80007 }, "geometry": { "type": "Point", "coordinates": [ -85.758367339236912, 38.256665396424097 ] } },
 { "type": "Feature", "properties": { "Name": "Bardstown Bourbon Company", "Address": "1500 Parkway Dr", "City": "Bardstown", "State": "KY", "Type": "Primary", "Longitude": -85.5316188, "Latitude": 37.8459176 }, "geometry": { "type": "Point", "coordinates": [ -85.5316188, 37.8459176 ] } },
 { "type": "Feature", "properties": { "Name": "Bulleit Distilling Co.", "Address": "3900 Benson Pike", "City": "Shelbyville", "State": "KY", "Type": "Primary", "Longitude": -85.1392736, "Latitude": 38.2228408 }, "geometry": { "type": "Point", "coordinates": [ -85.1392736, 38.2228408 ] } },
 { "type": "Feature", "properties": { "Name": "Bulleit Frontier Experience at the Stitzel–Weller Distillery", "Address": "3860 Fitzgerald Rd", "City": "Louisville", "State": "KY", "Type": "Primary", "Longitude": -85.8110037, "Latitude": 38.2097053 }, "geometry": { "type": "Point", "coordinates": [ -85.8110037, 38.2097053 ] } },
