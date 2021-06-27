@@ -55,10 +55,11 @@
         }
 
         p {
-            font-size: 1.15em;
-            line-height: 1.8em;
+            font-size: 1.0em;
+            line-height: 1.25em;
             margin: 0 0 25px 0;
         }
+
 
         a {
             color: #15397f;
@@ -87,7 +88,7 @@
         }
 
         .max-image-width {
-            width: 100%;
+            width: 75%;
         }
 
         /* add custom style class here */
@@ -109,11 +110,11 @@
         .first-column {
             float: left;
             width: 48%;
-            padding-right: 20px;
+            padding-right: 25px;
         }
 
         .column {
-            float: left;
+            float: right;
             width: 48%;
         }
 
@@ -134,7 +135,7 @@
 
         /* When browser is 800px wide or less */
 
-        @media screen and (max-width: 800px) {
+        @media screen and (max-width: 600px) {
 
             .first-column,
             .column {
@@ -154,8 +155,12 @@
         <div class="row">
             <div class="first-column">
                 <p>
-                    This map provides a glance at the distilleries located along the Kentucky Bourbon Trail.
-                    <br>
+                    Kentucky's Bourbon Trail is a program sponsored by the Kentucky Distiller's Asscociation.  The program began in 2008 with seven distilleries and has grown to 18 
+                    on the Main Tour and an additional 20 artisan distilleries on the Craft Tour.  
+                    <br><br>
+                    This map provides a glance at the Main Bourbon Trail distilleries located along the Kentucky Bourbon Trail.
+                    - Note: Craft distilleries appear in the map as smaller icons but are not included in the list below.
+                    <br><br><br>
                     Click on a distillery name below for more information.
                     <ul>
                         <li>Angel's Envy Distillery in Louisville</li>
@@ -167,47 +172,53 @@
                         <li>Heaven Hill Visitor Center in Bardstown</li>
                         <li>Jim Beam American Stillhouse in Clermont</li>
                         <li>Jim Beam Urban Stillhouse in Louisville</li>
-                        <li>Lux Row Distillers in Bardstown</li>
-                        <li>Maker's Mark Distillery in Loretto</li>
-                        <li>Michter’s Fort Nelson Distillery in Louisville</li>
-                        <li>Old Forester Distilling Co. in Louisville</li>
-                        <li>O.Z. Tyler Distillery in Owensboro</li>
-                        <li>Rabbit Hole Distillery in Louisville</li>
-                        <li>Town Branch Distillery in Lexington</li>
-                        <li>Wild Turkey Distillery in Lawrenceburg</li>
-                        <li>Woodford Reserve Distillery near Versailles</li>
                     </ul>
-
                 </p>
+            
                 <p>
                 
                 </p>
                 <h3>Tools used in this project</h3>
                 <ul>
-                    <li>One</li>
-                    <li>Two</li>
-                    <li>Three</li>
+                    <li>QGIS for converting CSV into a geoJSON file and for editing and creating locations.</li>
+                    <li>Mapbox for creation of embedded maps</li>
+                    <li>Original data from <a href="Phttp://www.poi-factory.com/node/2931">POI Factory raw GPX file download.</li>
                 </ul>
 
 
                 <hr>
                 <h3>Project assets</h3>
                 <ul>
-                    <li>Add link to geojson</li>
-                    <!-- <li><a href="arches_us.geojson" download>point locations GeoJSON</a></li>-->
+                    <li><a href="\data\Bourbon_Trail_Distilleries.geojson" download>Distillery Locations GeoJSON</a></li>
                 </ul>
                 </p>
 
 
             </div>
             <div class="column">
-                <img class="max-image-width" src="https://live.staticflickr.com/65535/47966434492_4d897a8cfd_z.jpg"
-                    title="UKy Campus">
-                <div class="linkbox">UKy Campus</div>
-
+                <img class="max-image-width" src="..\images\kbt-logo-500-e1515037784706.png"
+                    title="Bourbon Trail Logo">
+                <div class="linkbox"><a href="https://kybourbontrail.com/">Kentucky Bourbon Trail Official Website</a></div>
+                <br>
+                <p>
+                    <ul>
+                        <li>Lux Row Distillers in Bardstown</li>
+                        <li>Maker's Mark Distillery in Loretto</li>
+                        <li>Michter’s Fort Nelson Distillery in Louisville</li>
+                        <li>Old Forester Distilling Co. in Louisville</li>
+                        <li>O.Z. Tyler Distillery in Owensboro</li>
+                        <li>Rabbit Hole Distillery in Louisville</li>
+                        <li><a href="townbranch.html" target="_blank">Town Branch Distillery in Lexington</a></li>
+                        <li>Wild Turkey Distillery in Lawrenceburg</li>
+                        <li>Woodford Reserve Distillery near Versailles</li>
+                    </ul>
+                </p>
+                <img class="max-image-width" src="..\images\passport.png"
+                title="Bourbon Trail Passport">
+                <div class="linkbox"><a href="https://kybourbontrail.com/field-guide/">Plan your trip today!</a></div>
             </div>
+            
         </div>
-
 
         <hr>
         <!-- <h4><a href="https://uky-gis.github.io">UKy GIS and Mapping</a></h4> -->
