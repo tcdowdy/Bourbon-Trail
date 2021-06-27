@@ -1,7 +1,6 @@
 {
 "type": "FeatureCollection",
 "name": "Bourbon_Trail_Distilleries",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "Name": "Angel's Envy Distillery", "Address": "500 E Main St", "City": "Louisville", "State": "KY", "Type": "Primary", "Longitude": -86.992581, "Latitude": 35.80007 }, "geometry": { "type": "Point", "coordinates": [ -85.758367339236912, 38.256665396424097 ] } },
 { "type": "Feature", "properties": { "Name": "Bardstown Bourbon Company", "Address": "1500 Parkway Dr", "City": "Bardstown", "State": "KY", "Type": "Primary", "Longitude": -85.5316188, "Latitude": 37.8459176 }, "geometry": { "type": "Point", "coordinates": [ -85.409580650782189, 37.811646118379684 ] } },
