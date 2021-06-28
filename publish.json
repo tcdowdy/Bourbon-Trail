@@ -1,0 +1,9 @@
+{
+    "title": "Kentucky's Bourbon Trail",
+    "info": "This map is a representation of the current locations of the 18 primary distilleries and 20 craft distilleries that comprise Kentucky's Bourbon Trail.  
+            All distilleries are open for tours and the public is welcome.  Completing a passport book of all primary distilleries gains the traveller a unique tee
+            with bragging rights.", 
+    "coordinates": [38.017, -84.506],
+    "author": "GISDataQueen", 
+    "link": "https://github.com/tcdowdy/Bourbon-Trail" 
+}
